@@ -1,0 +1,1 @@
+# batterylevel-plugin-example
