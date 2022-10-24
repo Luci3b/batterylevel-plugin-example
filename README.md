@@ -2,6 +2,11 @@
 
 This repository is a kickstart for learning how to develop native plugins, in this case I developed a battery plugin in kotlin only to get the battery level and if the device is charging.
 
+## Preview
+Here's a preview image.
+
+![Preview](preview/preview_image.jpg?raw=true)
+
 ## Resources
 
 ### Flutter documentation
